@@ -44,4 +44,4 @@
 
  Please wait for a few minutes, __it's not instantanious__. **Do not unplug the charger, nor the pendrive.** You might make things worse, tho I highly doubt it can get any worse than this.
 
- If your laptop starts beeping in a __heartbeat-like pattern__. **You did it!** If not, consider making a claim with __Lenovo's customer support__, and kindly tell them your situation in the **best of detail**. Depending on warranty *(mine is Premium Care on-the-spot)*, they should __send out a specialist__ to come solve it, or they will come to __collect your laptop__.
+ If your laptop starts beeping in a __heartbeat-like pattern__. **You did it!** If not, consider making a claim with __Lenovo's customer support__, and kindly tell them your situation in the **best of detail**. Depending on warranty, they should __send out a specialist__ to come solve it, or they will come to __collect your laptop__.
